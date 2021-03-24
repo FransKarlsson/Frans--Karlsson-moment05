@@ -1,0 +1,7 @@
+
+Högsta talet:2, Lägsta talet: 2, Summan av talen:2
+Högsta talet:3, Lägsta talet: 2, Summan av talen:5
+Högsta talet:3, Lägsta talet: 1, Summan av talen:6
+Högsta talet:5, Lägsta talet: 1, Summan av talen:11
+Högsta talet:10, Lägsta talet: 1, Summan av talen:21
+Högsta talet:10, Lägsta talet: -2, Summan av talen:19
